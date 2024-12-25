@@ -1,0 +1,30 @@
+div{
+    width: 100px;
+    aspect-ratio: 1;
+    background-color: rgb(51, 73, 73);
+    color: blueviolet;
+
+    /* position: absolute;
+    left: 50%;
+    bottom: 50%;
+    transform: translate(-50%, -50%); */
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: auto;
+}
+
+body{
+    background-color: rgb(10, 9, 7);
+    height: 100vh;
+
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+
+    /* display: grid;
+    place-items: center; */
+    display: flex;
+}
